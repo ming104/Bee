@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "456471808447",
+    "project_id": "beegame-6efe4",
+    "storage_bucket": "beegame-6efe4.appspot.com",
+    "firebase_url": "https://beegame-6efe4-default-rtdb.firebaseio.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456471808447:android:15b648eb75cacc3bd0f90a",
+        "android_client_info": {
+          "package_name": "com.ming10.BeeGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx1IjRDM8XkQIVUouSgL7lhiKXbUtVmN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
